@@ -68,7 +68,7 @@ For a list of hotels near by, and transportation to and from Göttingen, please 
 
 ### Organizers 
 
-*   Rainer J. Engelken (Columbia University, USA)  [re2365 -at- columbia.edu]
+*   Rainer Engelken (Columbia University, USA)  [re2365 -at- columbia.edu]
 *   Farzad Farkhooi (Technische Universität Berlin, Germany) [farzad -at- bccn-berlin.de]
 *   Jonathan Kadmon (Stanford University, USA) [kadmonj -at- stanford.edu]
 *   Fred Wolf (Max Planck Institute for Dynamics and Self-Organization, Germany)
