@@ -2,11 +2,11 @@
 
 ### Tuesday, June 26 [Tutorials]
 09:00-09:15  Greetings and opening remarks  
-09:15-10:30  Dynamics in networks with excitatory and inhibitory balance [Farzad]  
+09:15-10:30  Dynamics in networks with excitatory and inhibitory balance [Farzad Farkhooi]  
 10:30-11:00  _Break_  
-11:00-12:30  Quantifying chaos in neural circuits [Rainer]  
+11:00-12:30  Quantifying chaos in neural circuits [Rainer Engelken]  
 12:30-14:00  _Lunch break_  
-14:00-15:30  Statistical physics of learning in perceptron-based networks [Jonathan]  
+14:00-15:30  Statistical physics of learning in perceptron-based networks [Jonathan Kadmon]  
 
 ### Wednesday, June 27
 09:00-09:15  Opening remarks  
